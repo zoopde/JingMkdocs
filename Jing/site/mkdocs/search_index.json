@@ -1,0 +1,74 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/How to annotate an image capture/", 
+            "text": "How to annotate an image capture\n\n\nAfter \ntaking an image capture\n, you may wish to edit the image to highlight and clarify aspects of it. Jing has this capability built-in.\n\n\nTo do so:\n\n\nHow to make an arrow annotation\n\n\n\n\nClick the \nArrow\n Icon in the lefthand toolbar indicated in red\n\n\nClick and drag \ntoward\n the part of the image you want the arrow to point towards.\n\n\nAjust the opacity and color of the arrow by clicking the \nColor\n icon indicated in blue\n\n\n\n\nHow to make text annotation\n\n\n\n\nClick the \nText\n icon indicated in yellow in the lefthand toolbar.\n\n\nClick and drag a textbox over the area of the image you want to overlay text onto.\n\n\nClick inside the textbox and type the text.\n\n\nAdjust the opacity and color of the text by hovering over and using the color tool that appears. \n\n\nAdjust the opacity and color of the textbook frame by clicking the \ncolor\n icon indicated in blue.", 
+            "title": "How to annotate an image capture"
+        }, 
+        {
+            "location": "/How to annotate an image capture/#how-to-annotate-an-image-capture", 
+            "text": "After  taking an image capture , you may wish to edit the image to highlight and clarify aspects of it. Jing has this capability built-in.  To do so:", 
+            "title": "How to annotate an image capture"
+        }, 
+        {
+            "location": "/How to annotate an image capture/#how-to-make-an-arrow-annotation", 
+            "text": "Click the  Arrow  Icon in the lefthand toolbar indicated in red  Click and drag  toward  the part of the image you want the arrow to point towards.  Ajust the opacity and color of the arrow by clicking the  Color  icon indicated in blue", 
+            "title": "How to make an arrow annotation"
+        }, 
+        {
+            "location": "/How to annotate an image capture/#how-to-make-text-annotation", 
+            "text": "Click the  Text  icon indicated in yellow in the lefthand toolbar.  Click and drag a textbox over the area of the image you want to overlay text onto.  Click inside the textbox and type the text.  Adjust the opacity and color of the text by hovering over and using the color tool that appears.   Adjust the opacity and color of the textbook frame by clicking the  color  icon indicated in blue.", 
+            "title": "How to make text annotation"
+        }, 
+        {
+            "location": "/How to save an annotated image/", 
+            "text": "How to save an annotated image\n\n\nAfter you have \nannonated and edited the image\n to serve your purpose, you can then save the image for future use and posterity.\n\n\nTo do so:\n\n1. From the annotation window, click the \nSave\n icon in the bottom toolbar. \n1. The file explorer will appear. Choose a location on your computer to save the annotated image. \n\n1. You can also change the name of the annotated image. By default, Jing will use the time and date the image capture was taken as the file name.\n1. Click the \nSave\n button.", 
+            "title": "How to save an annotated image"
+        }, 
+        {
+            "location": "/How to save an annotated image/#how-to-save-an-annotated-image", 
+            "text": "After you have  annonated and edited the image  to serve your purpose, you can then save the image for future use and posterity.  To do so: \n1. From the annotation window, click the  Save  icon in the bottom toolbar. \n1. The file explorer will appear. Choose a location on your computer to save the annotated image.  \n1. You can also change the name of the annotated image. By default, Jing will use the time and date the image capture was taken as the file name.\n1. Click the  Save  button.", 
+            "title": "How to save an annotated image"
+        }, 
+        {
+            "location": "/How to take an image capture/", 
+            "text": "How to take a image capture\n\n\nAfter \ntriggering screen capture\n, crosshairs will appear on your screen. You use these crosshairs to select the area of the screen you want to capture in an image.\n\n\nTo do so:\n\n\n\n\nClick and drag your cursor until the area you want to capture selected inside the colored box.\n\n\nRelease the cursor to capture the area. A new window will appear showing you the image you have just captured. Selecting an area as done in step 1 will give you the image below. \n\n\nIf you are satisfied with the image, click the \nImage Capture\n icon in the tool bar, indicated in the red box.\n\n\nIf you are dissatisfied with the image, click the \nRedo Selection\n icon in the tool bar, indicated in the blue box.", 
+            "title": "How to take an image capture"
+        }, 
+        {
+            "location": "/How to take an image capture/#how-to-take-a-image-capture", 
+            "text": "After  triggering screen capture , crosshairs will appear on your screen. You use these crosshairs to select the area of the screen you want to capture in an image.  To do so:   Click and drag your cursor until the area you want to capture selected inside the colored box.  Release the cursor to capture the area. A new window will appear showing you the image you have just captured. Selecting an area as done in step 1 will give you the image below.   If you are satisfied with the image, click the  Image Capture  icon in the tool bar, indicated in the red box.  If you are dissatisfied with the image, click the  Redo Selection  icon in the tool bar, indicated in the blue box.", 
+            "title": "How to take a image capture"
+        }, 
+        {
+            "location": "/How to trigger a screen capture/", 
+            "text": "How to trigger a screen capture\n\n\nTriggering a screen capture is the first step of any Jing process whether you are capturing video or a still image.\n\n\nTo do so:\n\n\n\n\nHover your cursor over the Jing Icon indicated by the yellow arrow. In the example image, the Jing icon is docked on the top of the screen but your icon may be docked on the sides or bottom of your screen. \n\n\nWhile the cursor is hoving over the Jing icon, three new circular icons will expand from it. Click the \n+\n icon indicated by the yellow arrow. This will trigger the screen capture\n\n\n\n\nNote: You can dock the Jing icon in any side of the screen you want by clicking and dragging it there", 
+            "title": "How to trigger a screen capture"
+        }, 
+        {
+            "location": "/How to trigger a screen capture/#how-to-trigger-a-screen-capture", 
+            "text": "Triggering a screen capture is the first step of any Jing process whether you are capturing video or a still image.  To do so:   Hover your cursor over the Jing Icon indicated by the yellow arrow. In the example image, the Jing icon is docked on the top of the screen but your icon may be docked on the sides or bottom of your screen.   While the cursor is hoving over the Jing icon, three new circular icons will expand from it. Click the  +  icon indicated by the yellow arrow. This will trigger the screen capture   Note: You can dock the Jing icon in any side of the screen you want by clicking and dragging it there", 
+            "title": "How to trigger a screen capture"
+        }
+    ]
+}
